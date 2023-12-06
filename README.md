@@ -19,4 +19,5 @@
 
 
   Графическое представление метода в папке flowchart в формате JPG.
-Реализация алгоритма по пути Code_programs/Program.cs
+
+  Реализация алгоритма по пути Code_programs/Program.cs
