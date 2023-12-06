@@ -9,7 +9,7 @@
 
 Console.Clear();
 
-﻿string[] arrayStr = new string[6] {"Мир", "Труд", "Май", "Любовь", "Лом", "Лоб"};
+string[] arrayStr = new string[6] {"Мир", "Труд", "Май", "Любовь", "Лом", "Лоб"};
 
 int GetCount(string[] arrayStr)
 {
