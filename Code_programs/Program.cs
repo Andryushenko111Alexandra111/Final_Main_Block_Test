@@ -1,4 +1,4 @@
-﻿/*
+/*
 Написать программу, которая из имеющегося массива строк 
 формирует новый массив из строк, длина которых меньше, 
 либо равна 3 символам. Первоначальный массив можно ввести 
@@ -9,7 +9,7 @@
 
 Console.Clear();
 
-﻿string[] arrayStr = new string[6] {"Мир", "Труд", "Май", "Любовь", "Лом", "Лоб"};
+string[] arrayStr = new string[6] {"Мир", "Труд", "Май", "Любовь", "Лом", "Лоб"};
 
 int GetCount(string[] arrayStr)
 {
@@ -45,5 +45,3 @@ var count = GetCount (arrayStr);
 var arrayResult = GetArrayResult(arrayStr, count);
 PrintArray(arrayStr);
 PrintArray(arrayResult);
-
-
