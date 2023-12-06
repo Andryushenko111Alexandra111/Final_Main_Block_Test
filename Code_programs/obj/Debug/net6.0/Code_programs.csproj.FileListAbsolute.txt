@@ -1,0 +1,15 @@
+G:\уроки\тестировшик\GeekBrains\1 четверь\Домашние задания\Итоговая по основному блоку\Code_programs\bin\Debug\net6.0\Code_programs.exe
+G:\уроки\тестировшик\GeekBrains\1 четверь\Домашние задания\Итоговая по основному блоку\Code_programs\bin\Debug\net6.0\Code_programs.deps.json
+G:\уроки\тестировшик\GeekBrains\1 четверь\Домашние задания\Итоговая по основному блоку\Code_programs\bin\Debug\net6.0\Code_programs.runtimeconfig.json
+G:\уроки\тестировшик\GeekBrains\1 четверь\Домашние задания\Итоговая по основному блоку\Code_programs\bin\Debug\net6.0\Code_programs.dll
+G:\уроки\тестировшик\GeekBrains\1 четверь\Домашние задания\Итоговая по основному блоку\Code_programs\bin\Debug\net6.0\Code_programs.pdb
+G:\уроки\тестировшик\GeekBrains\1 четверь\Домашние задания\Итоговая по основному блоку\Code_programs\obj\Debug\net6.0\Code_programs.csproj.AssemblyReference.cache
+G:\уроки\тестировшик\GeekBrains\1 четверь\Домашние задания\Итоговая по основному блоку\Code_programs\obj\Debug\net6.0\Code_programs.GeneratedMSBuildEditorConfig.editorconfig
+G:\уроки\тестировшик\GeekBrains\1 четверь\Домашние задания\Итоговая по основному блоку\Code_programs\obj\Debug\net6.0\Code_programs.AssemblyInfoInputs.cache
+G:\уроки\тестировшик\GeekBrains\1 четверь\Домашние задания\Итоговая по основному блоку\Code_programs\obj\Debug\net6.0\Code_programs.AssemblyInfo.cs
+G:\уроки\тестировшик\GeekBrains\1 четверь\Домашние задания\Итоговая по основному блоку\Code_programs\obj\Debug\net6.0\Code_programs.csproj.CoreCompileInputs.cache
+G:\уроки\тестировшик\GeekBrains\1 четверь\Домашние задания\Итоговая по основному блоку\Code_programs\obj\Debug\net6.0\Code_programs.dll
+G:\уроки\тестировшик\GeekBrains\1 четверь\Домашние задания\Итоговая по основному блоку\Code_programs\obj\Debug\net6.0\refint\Code_programs.dll
+G:\уроки\тестировшик\GeekBrains\1 четверь\Домашние задания\Итоговая по основному блоку\Code_programs\obj\Debug\net6.0\Code_programs.pdb
+G:\уроки\тестировшик\GeekBrains\1 четверь\Домашние задания\Итоговая по основному блоку\Code_programs\obj\Debug\net6.0\Code_programs.genruntimeconfig.cache
+G:\уроки\тестировшик\GeekBrains\1 четверь\Домашние задания\Итоговая по основному блоку\Code_programs\obj\Debug\net6.0\ref\Code_programs.dll
